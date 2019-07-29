@@ -1,0 +1,209 @@
+@charset "UTF-8";
+/* CSS Document */
+
+header{
+	width: 100%;
+	height: 80px;
+	background-color: rgba(245,243,238,0.8);
+	font-family: 'Reem Kufi', sans-serif;
+	position: fixed;
+	top: 0;
+}
+header ul{
+	width:960px;
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+}
+header ul li{
+	font-size: 30px;
+	list-style: none;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+header a{
+	color: #10203d;
+	text-decoration: none;
+}
+header a:hover{
+	color: #14a7a9;
+}
+body{
+	background-image: url("../images/05-white-brick.png");
+	background-repeat: repeat;
+}
+section{
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#top{
+	padding-top: 30px;
+	margin-top: -30px;
+}
+.portfolio-png{
+	margin-top: 180px;
+	margin-bottom: 20px;
+}
+h3{
+	font-family: 'Parisienne', cursive;
+	font-size: 50px;
+	color: #14a7a9;
+	text-align: right;
+	margin-top: 0px;
+	margin-bottom: 200px;
+}
+h2{
+	font-family: 'Reem Kufi', sans-serif;
+	font-size: 70px;
+	color: #10203d;
+	margin-top: 100px;
+	margin-bottom: 0px;
+}
+h2 span{
+	color: #14a7a9;
+}
+h4{
+	font-size: 22px;
+	color: #10203d;
+}
+#about{
+	padding-top: 30px;
+	margin-top: -30px;
+}
+#about p{
+	font-size: 19px;
+	color: #10203d;
+	font-family: 'Sawarabi Gothic', sans-serif;
+}
+#skill{
+	padding-top: 30px;
+	margin-top: -30px;
+}
+.skill{
+	display: flex;
+	justify-content: space-between;
+}
+.skill p{
+	font-size: 19px;
+	color: #10203d;
+	font-family: 'Sawarabi Gothic', sans-serif;
+}
+.skill1{
+	width: 585px;
+}
+.skill2{
+	width: 210px;
+}
+#workweb{
+	padding-top: 30px;
+	margin-top: -30px;
+}
+#workweb p{
+	font-size: 19px;
+	color: #10203d;
+	font-family: 'Sawarabi Gothic', sans-serif;
+	margin-top: 20px;
+}
+.introduction{
+	width: 48%;
+	height: auto;
+}
+.staff{
+	width: 48%;
+	height: auto;
+}
+.homepage{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+	align-items: flex-start;
+}
+.story{
+	width: 48%;
+	height: auto;
+}
+.cast{
+	width: 48%;
+	height: auto;
+}
+.homepage2{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+	align-items: flex-start;
+}
+.cafe{
+	margin-top: 150px;
+}
+.top-r{
+	width: 200px;
+	height: auto;
+}
+.komorebi3{
+	display: inline-block;
+}
+.komorebi{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+	align-items: flex-start;
+}
+.komorebi2{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+	align-items: flex-start;
+}
+.acces{
+	margin-top: 50px;
+}
+.responsive{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+	align-items: flex-start;
+}
+#workdtp{
+	padding-top: 30px;
+	margin-top: -30px;
+}
+.package-pic{
+	width: 700px;
+	height: auto;
+}
+.pack-pic2{
+	width: 250px;
+}
+.pack-d{
+	width: 100%;
+	height: auto;
+}
+.pack-r{
+	width: 100%;
+	height: auto;
+}
+.packpack{
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+#workdtp p{
+	font-size: 19px;
+	color: #10203d;
+	font-family: 'Sawarabi Gothic', sans-serif;
+	margin-top: 20px;
+}
+.package{
+	width: 960px;
+	height: auto;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+footer p{
+	height: 10px;
+	font-size: 12px;
+	text-align: right;
+	padding-right: 10px;
+}
+
