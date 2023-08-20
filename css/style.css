@@ -10,16 +10,17 @@ header{
 	top: 0;
 }
 header ul{
-	width:960px;
+	max-width:960px;
 	display: flex;
 	margin-left: auto;
 	margin-right: auto;
+	justify-content: center;
+
 }
 header ul li{
-	font-size: 30px;
+	font-size: 28px;
 	list-style: none;
-	padding-left: 40px;
-	padding-right: 40px;
+	 padding: 0 30px;
 }
 header a{
 	color: #10203d;
@@ -31,6 +32,7 @@ header a:hover{
 body{
 	background-image: url("../images/05-white-brick.png");
 	background-repeat: repeat;
+	margin: 0;
 }
 section{
 	width: 960px;
