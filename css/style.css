@@ -5,6 +5,7 @@ body{
 	background-image: url("../images/05-white-brick.png");
 	background-repeat: repeat;
 	margin: 0;
+	font-family:"Noto Sans JP","Hiragino Kaku Gothic ProN",Meiryo,sans-serif;
 }
 
 img {
